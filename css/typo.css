@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Indie+Flower|Liu+Jian+Mao+Cao|ZCOOL+XiaoWei&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Chathura|Fjalla+One&display=swap');
+header{
+
+
+  font-family: 'Courgette', cursive;
+}
+header h1{
+  font-size: 2em;
+  text-align: center;
+
+}
+#fable01 {
+
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+#fable01 h2 {
+  font-size: 4em;
+
+}
+
+#fable01 p {
+  font-size: 1em;
+font-family: 'Shadows Into Light', cursive;
+
+
+}
+
+#fable01 .fable-moral {
+    font-family: 'Liu Jian Mao Cao', serif;
+    text-align: right;
+    font-size: 2em;
+  }
+
+  #fable03 {
+
+    font-family: 'ZCOOL XiaoWei', serif;
+  }
+
+  #fable03 h2 {
+    font-size: 6em;
+
+  }
+
+  #fable03 p {
+    font-size: 1em;
+  font-family: 'Playfair Display', serif;
+  color: white;
+
+
+  }
+
+  #fable03 .fable-moral {
+      font-family: 'Playfair Display', serif;
+      font-size: 2em;
+      text-align: right;
+    }
+
+    #fable02 {
+
+      font-family: 'Fjalla One', sans-serif;
+
+    }
+
+    #fable02 h2 {
+      font-size: 4em;
+
+
+    }
+
+    #fable02 p {
+      font-size: 2em;
+    font-family: 'Chathura', sans-serif;
+
+
+
+    }
+
+    #fable02 .fable-moral {
+        font-family: 'Playfair Display', serif;
+        text-align: right;
+      }
+
+.fable-moral {
+  font-size: 3.052em;
+  margin: 2.75rem 0 1rem;
